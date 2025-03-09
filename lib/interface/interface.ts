@@ -127,15 +127,15 @@ export interface GitHubRepository {
     web_commit_signoff_required: boolean;
 }
 
-interface Repositories {
+export interface Repositories {
     title: string | null;
     description: string | null;
     stargazers_count:number
 }
 
-interface User {
+export interface User {
     avatar_url: string | null;
-    login: string | null;
+    login: string ;
     profile_url: string | null
 
 }
@@ -143,3 +143,5 @@ export interface UserWithRepos {
     repositories: Repositories[],
     user: User
 }
+
+
