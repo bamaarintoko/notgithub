@@ -1,6 +1,6 @@
 'use client'
-import CollapsibleMenu from "@/components/CollapsibleMenu";
-import InstallPrompt from "@/components/InstallPrompt";
+// import CollapsibleMenu from "@/components/CollapsibleMenu";
+// import InstallPrompt from "@/components/InstallPrompt";
 import SearchButton from "@/components/SearchButton";
 import StatusMessage from "@/components/StatusMessage";
 import UserRepos from "@/components/UserRepos";
