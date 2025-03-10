@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+![Initial state](/screenshots/empty.png)
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## Folder Structure
+
+- `/app` — App routes
+- `/components` — Reusable components
+- `/lib` — Utility functions and libraries
+- `/public` — Static files
+
 ## Getting Started
 
 First, run the development server:
