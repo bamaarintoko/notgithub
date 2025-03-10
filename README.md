@@ -24,20 +24,35 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - `/public` — Static files
 
 ## Getting Started
-
-First, run the development server:
-
+### 📥 1. Clone the Repository
+```bash
+git clone https://github.com/bamaarintoko/notgithub.git
+```
+### 📂 2. Navigate to the Project Directory
+```bash
+cd your-repo-name
+```
+### 📦 3. Install Dependencies
+```bash
+npm install
+# or
+yarn install
+```
+### 🧪 7. Run Tests (Optional)
+```bash
+npm test
+# or
+yarn test
+```
+### 💻 5. Run the Development Server
 ```bash
 npm run dev
-# or
+#or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+### 🌐 6. Open in Browser
+Go to http://localhost:3000 to view the app in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
