@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Initial state](/screenshots/empty.png)
+![Initial state](public/screenshots/empty.png)
+![Initial state](public/screenshots/loading.png)
+![Initial state](public/screenshots/fill.png)
+![Initial state](public/screenshots/notfound.png)
 
 ## Tech Stack
 
